@@ -1,4 +1,4 @@
-![Kodestarter](/kodestarter-logo-white.png)
+![Kodestarter](/kodu/kodestarter-logo-white.png)
 
 <center>**Ablaufplanung Coding Camp**</center>
 
