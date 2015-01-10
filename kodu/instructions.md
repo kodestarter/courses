@@ -11,7 +11,7 @@ Den Schülern soll auf spielerische Art und Weise die Bedeutung von Bedingungen 
 Das Coding Camp kann innerhalb von zwei Tagen á 3,5 Stunden durchgeführt werden.
 
 ##Voraussetzungen
-Es werden Computer benötigt, die folgende Minimal-Voraussetzungen erfüllen:
+Es werden Computer benötigt, die die folgenden Minimal-Voraussetzungen erfüllen:
 - Microsoft Windows Betriebssystem ab XP (SP3)
 - .NET Framework 3.5 oder höher
 - XNA Framework 3.1 Redistributable
