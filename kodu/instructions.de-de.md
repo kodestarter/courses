@@ -2,7 +2,7 @@
 
 <center>**Ablaufplanung Coding Camp**</center>
 
-<center>Schwierigkeitsgrad: 1/3 </center>
+<center>Schwierigkeitsgrad: Anfänger </center>
 
 #<center>Einstiegskurs mit KODU</center>
 
@@ -27,6 +27,10 @@ Folgende Software muss auf den Computern der Teilnehmer installiert sein:
 - KODU (http://www.microsoft.com/en-us/download/details.aspx?id=10056)
 - XNA Framework (http://www.microsoft.com/en-us/download/details.aspx?id=21)
 - Die Kodestarter Beispiel-Programme müssen in das Verzeichnis TODO der Teilnehmer-Rechner kopiert werden, damit diese später geladen werden können.
+
+Optional:
+- Whiteboard
+- Beamer
 
 
 #Ablauf
@@ -60,7 +64,9 @@ Das Programm besteht aus drei Regeln:
          Subjekt - Aktion - Objekt - qualifizierende Attribute
             wobei das Subjekt implizit Teil der Regel ist, da die Regel ja für das Subjekt   definiert wird
     **Tue-Teil**
-         Aktion - qualifizierende Attribute
+         Aktion - Objekt - qualifizierende Attribute
+            wird kein Objekt angegeben, dann wird dafür implizit das Subjekt verwendet
+            (für das die Regel definiert ist)
 
 4. Die Teilnehmer sollen nun selber das Programm modifizieren und im Sinne von *Learning by doing* das KODU-Interface erforschen. Mögliche kleine Äderungen sind beispielsweise
   - Hinzufügen und Ändern von Objekten (Bäume, Farbe und Größe von Objekten ändern, etc.)
@@ -83,6 +89,34 @@ Die Teilnehmer können in dieser Einheit ihrer eigenen Kreativität freien Lauf 
   - Alle Objekte, die mich sehen, sollen vor mir weglaufen
   - etc.
 
+4. Zum Abschluss sollen die Teilnehmer dann ihr Programm speichern.
+
 Dies ist dann nach unserer Erfahrung auch schon genug für den ersten Tag! Gut gemacht! :-)
 
 ##Tag 2
+###Wiederholung
+Der 2.Tag startet mit einer Wiederholung des am Vortag Gelernten. Es bietet sich an, dass ein oder mehrere Teilnehmer ihr eigenes Programm vom Vortag der gesamten Gruppe präsentieren. Dabei sollen sie erklären, was in dem Programm so alles passiert, und wie sie diese Regeln umgesetzt haben.
+
+###Abschluss-Projekt: Pong
+Das Abschluss-Projekt hat drei Ziele:
+- Die Teilnehmer sollen ihre bisher erlernten Kenntnisse in einem komplexeren Projekt anwenden und vertiefen
+- Die Teilnehmer sollen anhand einer fertigen Demo des Spiels selber die funktionalen Anforderungen (in Prosa) formulieren und so das anfangs sehr komplex erscheinende Programm in leichter zu bewältigende Teil-Aufgaben unterteilen
+- In dem abschließenden Turnier sollen die Jugendlichen einfach Spaß haben und für ihren tollen Einsatz belohnt werden (z.B. kleine Sachpreise)  
+
+####Ablauf
+1. Zunächst soll den Teilnehmern eine bereits fertige Demo des Spiels gezeigt werden (*Ping Pong V1.Kodu2*). Anhand der Demo sollen die funktionalen Anforderungen definiert und aufgeschrieben werden (auf einem Whiteboard oder Beamer). Eine fertige Ausarbeitung dazu findest Du in der Datei *TODO*
+
+2. Je nachdem wie gut die einzelnen Teilnehmer in den vorherigen Projekten waren, haben sich zwei verschiedene Vorgehensweisen bewährt:
+
+  - Sehr gute Teilnehmer sollen selbstständig versuchen, das Spiel gemäß den funktionalen Anforderungen umzusetzen. Dabei sollen sie jeweils mit der Anforderung beginnen, die für sie am einfachsten zu bewältigen und nachzuvollziehen ist. Deine Aufgabe ist es, diesen Teilnehmern regelmäßig über die Schulter zu schauen, ob alles in die richtige Richtung geht und bei Fragen zu helfen.
+
+  - Teilnehmer, die etwas mehr Unterstützung brauchen, sollten bei der Aushwahl und Reihenfolge der umzusetzenden Anforderungen an die Hand genommen werden. Dabei ist es nicht zwingend notwendig, dass alle Anforderungen vollständig umgesetzt werden. Dies ist manchmal aus Zeitgründen oder aufgrund sehr unterschiedlicher Leistungsniveaus der Teilnehmer nicht realistisch. Folgende Reihenfolge schlagen wir vor:
+
+    1. Der Puck soll sich immer geradeaus bewegen
+    2. Wenn die Pfeiltasten (hoch, runter) gedrückt werden, dann soll sich der rote Schläger ausschließlich nach oben oder unten bewegen
+    3. Wenn die Tasten WASD gedrückt werden, dann soll sich der blaue Schläger ausschließlich nach oben oder unten bewegen
+    4. Wenn der Schläger mit dem Puck zusammenstößt, dann soll er den Puck wegtreten
+    5. Wenn der rote Schläger 5 rote Punkte hat, dann gewinnt rot
+    6. Wenn der blaue Schläger 5 blaue Punkte hat, dann gewinnt blau
+    7. Wenn der Puck auf dem roten Land ist, dann soll einmal 1 blauer Punkt addiert werden
+    8. Wenn der Puck auf dem blauen Land ist, dann soll einmal 1 roter Punkt addiert werden
