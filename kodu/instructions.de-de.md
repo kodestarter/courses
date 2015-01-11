@@ -43,12 +43,25 @@ Das Programm zeigt einen Motorradfahrer der im Kreis um einen KODU fährt.
 2. Die Schüler sollen nun beschreiben, was sie sehen. Sie sollen die zugrunde liegende Gesetzmäßigkeit dieses Programms herausfinden und in natürlicher Sprache formulieren.
 Das Programm besteht aus drei Regeln:
 
-  *Wenn der KODU den Motorradfahrer sieht, dann beginnt er zu glühen.*
+  - *Wenn der KODU den Motorradfahrer sieht, dann beginnt er zu glühen.*
 
-  *Wenn der KODU den Motorradfahrer nicht mehr sieht, dann hört er wieder auf zu glühen.*
+  - *Wenn der KODU den Motorradfahrer nicht mehr sieht, dann hört er wieder auf zu glühen.*
 
-  *Der Motorradfahrer soll immer im Kreis fahren (egal was passiert).*
+  - *Der Motorradfahrer soll immer im Kreis fahren (egal was passiert).*
 
-3. Den Teilnehmern wird nun gezeigt, wie die von ihnen entdeckten Gesetzmäßigkeiten bzw. Wenn-Dann Regeln in KODU abgebildet werden.
+3. Den Teilnehmern wird nun gezeigt, wie die von ihnen entdeckten Gesetzmäßigkeiten bzw. Wenn-Dann Regeln in KODU abgebildet werden. Dabei soll den Teilnehmern die allgemeine Struktur eines KODU-Programms und die Syntax der Wenn-Dann Regeln bewusst gemacht werden:
+  - Ein Programm besteht aus einer beliebigen Anzahl an Regeln (oder auch Anweisungen), die alle mehrmals pro Sekunde parallel von dem Computer überprüft werden. Ist der **Wenn-Teil** der Regel wahr, dann wird der **Tue-Teil** der Regel ausgeführt, ansonsten passiert nichts.
+
+   - Soll der **Tue-Teil** einer Regel immer ausgeführt werden, unabhängig von irgendeiner Vorbedingung, dann wird der **Wenn-Teil** einfach leergelassen
+
+   - Eine KODU-Regel folgt meist folgender Struktur:
+
+    **Wenn-Teil** *Subjekt - Aktion - Objekt - qualifizierende Attribute*
+
+    **Tue-Teil** Aktion - qualifizierende Attribute
+
+4. Die Teilnehmer sollen nun selber das Programm modifizieren und im Sinne von *Learning by doing* das KODU-Interface erforschen. Mögliche kleine Äderungen sind beispielsweise
+  - Hinzufügen und Ändern von Objekten (Bäume, Farbe und Größe von Objekten ändern, etc.)
+  - Hinzufügen oder ändern von Regeln (Wenn der Motorradfahrer einen blauen Baum sieht, dann soll er "WOW!" sagen, etc.)
 
 ##Tag 2
