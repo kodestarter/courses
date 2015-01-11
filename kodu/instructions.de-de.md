@@ -1,14 +1,15 @@
 ![Kodestarter](/kodu/kodestarter-logo-white.png)
 
 <center>**Ablaufplanung Coding Camp**</center>
-<center>Schwierigkeitsgrad: 1 </center>
+
+<center>Schwierigkeitsgrad: 1/3 </center>
 
 #<center>Einstiegskurs mit KODU</center>
 
 ##Ziele
-Den Schülern soll auf spielerische Art und Weise die Bedeutung von Bedingungen (`if then else`) nähergebracht werden, und wie aus einzelnen soclcher Regeln durchaus komplexe Programme entwickelt werden können. Dazu werden die Grundlagen der visuellen Programmiersprache KODU vermittelt.
+Den Schülern soll auf spielerische Art und Weise die Bedeutung von Bedingungen (`if then else`) nähergebracht werden, und wie aus mehreren solcher Regeln durchaus komplexe Programme entwickelt werden können. Dazu werden die Grundlagen der visuellen Programmiersprache KODU vermittelt.
 
-Die Schüler lernen, wie sie mit Wenn-Dann Regeln und den grafischen Bausteinen die KODU-Welt ihren Vorstellungen entsprechend verändern können. Als Abschluss-Projekt werden sie den Arkade-Klassiker *Pong* programmieren.
+Die Schüler lernen, wie sie mit Wenn-Dann Regeln und den entsprechenden grafischen Bausteinen die KODU-Welt nach ihren Vorstellungen verändern können. Als Abschluss-Projekt werden sie den Arkade-Klassiker *Pong* programmieren.
 
 Es wird keinerlei Vorwissen der Teilnehmer vorausgesetzt.
 
@@ -20,8 +21,7 @@ Es werden Computer benötigt, die die folgenden Minimal-Voraussetzungen erfülle
 - Microsoft Windows Betriebssystem ab XP (SP3)
 - .NET Framework 3.5 oder höher
 - XNA Framework 3.1 Redistributable
-- A graphics card that supports DirectX 9.0c and Shader Model 2.0 or higher
-
+- Eine Grafikkarte mit DirectX 9.0c und Shader Model 2.0 Unterstützung
 
 Folgende Software muss auf den Computern der Teilnehmer installiert sein:
 - KODU (http://www.microsoft.com/en-us/download/details.aspx?id=10056)
