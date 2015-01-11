@@ -110,7 +110,7 @@ Das Abschluss-Projekt hat drei Ziele:
 
   - Sehr gute Teilnehmer sollen selbstständig versuchen, das Spiel gemäß den funktionalen Anforderungen umzusetzen. Dabei sollen sie jeweils mit der Anforderung beginnen, die für sie am einfachsten zu bewältigen und nachzuvollziehen ist. Deine Aufgabe ist es, diesen Teilnehmern regelmäßig über die Schulter zu schauen, ob alles in die richtige Richtung geht und bei Fragen zu helfen.
 
-  - Teilnehmer, die etwas mehr Unterstützung brauchen, sollten bei der Aushwahl und Reihenfolge der umzusetzenden Anforderungen an die Hand genommen werden. Dabei ist es nicht zwingend notwendig, dass alle Anforderungen vollständig umgesetzt werden. Dies ist manchmal aus Zeitgründen oder aufgrund sehr unterschiedlicher Leistungsniveaus der Teilnehmer nicht realistisch. Folgende Reihenfolge schlagen wir vor:
+  - Teilnehmer, die etwas mehr Unterstützung brauchen, sollten bei der Auswahl und Reihenfolge der umzusetzenden Anforderungen an die Hand genommen werden. Dabei ist es nicht zwingend notwendig, dass alle Anforderungen vollständig umgesetzt werden. Dies ist manchmal aus Zeitgründen oder aufgrund sehr unterschiedlicher Leistungsniveaus der Teilnehmer nicht realistisch. Folgende Reihenfolge schlagen wir vor:
 
     1. Der Puck soll sich immer geradeaus bewegen
     2. Wenn die Pfeiltasten (hoch, runter) gedrückt werden, dann soll sich der rote Schläger ausschließlich nach oben oder unten bewegen
@@ -120,3 +120,11 @@ Das Abschluss-Projekt hat drei Ziele:
     6. Wenn der blaue Schläger 5 blaue Punkte hat, dann gewinnt blau
     7. Wenn der Puck auf dem roten Land ist, dann soll einmal 1 blauer Punkt addiert werden
     8. Wenn der Puck auf dem blauen Land ist, dann soll einmal 1 roter Punkt addiert werden
+
+3. Diejenigen Teilnehmer, die das Spiel schon fertig umgesetzt haben, dürfen bei Bedarf gerne die anderen Teilnehmer bei der Umsetzung unterstützen.
+
+4. Wenn alle Teilnehmer zufrieden mit ihrer Arbeit sind, dann steht dem Abschluss-Turnier nichts mehr im Wege. Die Spiele werden am basten via Beamer übertragen, ansonsten an einem Computer vor dem für alle Zuschauer Platz ist. Das Turnier folgt einem einfachen KO-System. Die Spielpaarungen können ausgelost werden.
+
+Es sollte klar sein, dass alle Teilnehmer Gewinner sind. Bei der Auswahl der Preise sollte also darauf geachtet werden, dass diese nicht stark voneinander im Wert abweichen. Die Platzierung ist absolut zweitrangig, es geht hier vor allem um den Spaß, sein selbstprogrammiertes Spiel selber mit anderen zu spielen.
+
+Wir von Kodestarter e.V. hoffen, dass Dir dieser Guide hilft, Coding Camps für Kinder und Jugendliche durchzuführen und in ihnen die Begeisterung für IT und Informatik weckst! Wir freuen uns, wenn du uns von deinem Coding Camp erzählst! Berichte und Fotos einfach an [info@kodestarter.org](mailto:info@kodestarter.org) schicken, wir freuen uns!
