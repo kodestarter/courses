@@ -34,7 +34,7 @@ Folgende Software muss auf den Computern der Teilnehmer installiert sein:
 ###Motivation
 Den Teilnehmern soll zunächst bewusst gemacht werden, warum es wichtig und sinnvoll ist, Programmier-Kenntnisse zu erlangen. Dazu kann der diesem Kurs beiliegende Foliensatz *Motivation.pptx* verwendet werden. Entsprechende Kommentare und Erklärungen der Folien sind direkt in dem Foliensatz eingebracht.
 
-###Das erste KODU-Programm
+###Wie funktioniert ein KODU-Programm?
 Ziel dieser Lerneinheit ist, dass die Teilnehmer die zugrunde liegenden zwei Wenn-Dann Regeln des Programms durch Beobachtung entdecken bzw. selber in natürlicher Sprache formulieren. Ihnen wird dann gezeigt, wie die von ihnen gefundenen und formulierten Wenn-Dann Regeln in der Programmiersprache KODU abgebildet werden.
 
 1. Den Teilnehmern wird auf einem Beamer ein erstes kleines KODU-Programm in der Ausführung gezeigt(*Motorradfahren und Blinken.Kodu2*). Steht kein Beamer zur Verfügung, so müssen die Teilnehmer dieses Programm auf ihren Rechnern öffnen und ausführen. Da sie bis dahin noch keinerlei Erfahrung mit KODU haben, muss ihnen eventuell dabei geholfen werden.
@@ -56,12 +56,33 @@ Das Programm besteht aus drei Regeln:
 
    - Eine KODU-Regel folgt meist folgender Struktur:
 
-    **Wenn-Teil** *Subjekt - Aktion - Objekt - qualifizierende Attribute*
-
-    **Tue-Teil** Aktion - qualifizierende Attribute
+    **Wenn-Teil**
+         Subjekt - Aktion - Objekt - qualifizierende Attribute
+            wobei das Subjekt implizit Teil der Regel ist, da die Regel ja für das Subjekt   definiert wird
+    **Tue-Teil**
+         Aktion - qualifizierende Attribute
 
 4. Die Teilnehmer sollen nun selber das Programm modifizieren und im Sinne von *Learning by doing* das KODU-Interface erforschen. Mögliche kleine Äderungen sind beispielsweise
   - Hinzufügen und Ändern von Objekten (Bäume, Farbe und Größe von Objekten ändern, etc.)
   - Hinzufügen oder ändern von Regeln (Wenn der Motorradfahrer einen blauen Baum sieht, dann soll er "WOW!" sagen, etc.)
+
+
+###Das erste eigene KODU-Programm
+Ziel dieser Lerneinheit ist, dass die Teilnehmer ein kleines Programm von Grund auf selber programmieren. Dabei sollen sie sowohl Objekte mit unterschiedlichen Regeln programmieren, als auch lernen, wie man die Welt selber ausgestalten kann (Berge, Flüsse, unterschiedliche Untergründe, etc.).
+
+Die Teilnehmer können in dieser Einheit ihrer eigenen Kreativität freien Lauf lassen. Erfahrungsgemäß ist dies der Teil des Coding Camps, der den Teilnehmern mit am meisten Spaß bereitet. Es hat sich allerdings bewährt, den Teilnehmern eine erste Aufgabe zu geben, die als Startpunkt dient.
+
+1. Die Teilnehmer sollen in das Hauptmenü wechseln und dort den Punkt **Neue leere Welt** auswählen.
+
+2. In diese neue Welt sollen die Teilnehmer einen KODU setzen. Dieser soll nun so programmiert werden, dass er mit den Pfeiltasten bewegt werden kann.
+
+3. Die Teilnehmer können nun die Welt nach ihren Vorstellungen verändern, neue Objekte hineinsetzen und diese programmieren. Du als Lehrer solltest die Teilnehmer natürlich an die Hand nehmen, ihnen bei Problemen helfen und bei Bedarf weitere Anregungen geben, was sie programmieren könnnten. Beispiele dafür wären:
+
+  - Wenn man auf die Taste *R* drückt, soll eine Rakete abgeschossen werden
+  - Wenn man die Taste *H* drückt soll das Objekt hochfliegen
+  - Alle Objekte, die mich sehen, sollen vor mir weglaufen
+  - etc.
+
+Dies ist dann nach unserer Erfahrung auch schon genug für den ersten Tag! Gut gemacht! :-)
 
 ##Tag 2
