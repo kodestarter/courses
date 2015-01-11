@@ -26,12 +26,29 @@ Es werden Computer benötigt, die die folgenden Minimal-Voraussetzungen erfülle
 Folgende Software muss auf den Computern der Teilnehmer installiert sein:
 - KODU (http://www.microsoft.com/en-us/download/details.aspx?id=10056)
 - XNA Framework (http://www.microsoft.com/en-us/download/details.aspx?id=21)
+- Die Kodestarter Beispiel-Programme müssen in das Verzeichnis TODO der Teilnehmer-Rechner kopiert werden, damit diese später geladen werden können.
 
 
 #Ablauf
 ##Tag 1
-1. Den Teilnehmern soll zunächst bewusst gemacht werden, warum es wichtig und sinnvoll ist, Programmier-Kenntnisse zu erlangen. Dazu kann der diesem Kurs beiliegende Foliensatz *Motivation.pptx* verwendet werden. Entsprechende Kommentare und Erklärungen der Folien sind direkt in dem Foliensatz eingebracht.
+###Motivation
+Den Teilnehmern soll zunächst bewusst gemacht werden, warum es wichtig und sinnvoll ist, Programmier-Kenntnisse zu erlangen. Dazu kann der diesem Kurs beiliegende Foliensatz *Motivation.pptx* verwendet werden. Entsprechende Kommentare und Erklärungen der Folien sind direkt in dem Foliensatz eingebracht.
 
-2.    
+###Das erste KODU-Programm
+Ziel dieser Lerneinheit ist, dass die Teilnehmer die zugrunde liegenden zwei Wenn-Dann Regeln des Programms durch Beobachtung entdecken bzw. selber in natürlicher Sprache formulieren. Ihnen wird dann gezeigt, wie die von ihnen gefundenen und formulierten Wenn-Dann Regeln in der Programmiersprache KODU abgebildet werden.
+
+1. Den Teilnehmern wird auf einem Beamer ein erstes kleines KODU-Programm in der Ausführung gezeigt(*Motorradfahren und Blinken.Kodu2*). Steht kein Beamer zur Verfügung, so müssen die Teilnehmer dieses Programm auf ihren Rechnern öffnen und ausführen. Da sie bis dahin noch keinerlei Erfahrung mit KODU haben, muss ihnen eventuell dabei geholfen werden.
+Das Programm zeigt einen Motorradfahrer der im Kreis um einen KODU fährt.
+
+2. Die Schüler sollen nun beschreiben, was sie sehen. Sie sollen die zugrunde liegende Gesetzmäßigkeit dieses Programms herausfinden und in natürlicher Sprache formulieren.
+Das Programm besteht aus drei Regeln:
+
+  *Wenn der KODU den Motorradfahrer sieht, dann beginnt er zu glühen.*
+
+  *Wenn der KODU den Motorradfahrer nicht mehr sieht, dann hört er wieder auf zu glühen.*
+
+  *Der Motorradfahrer soll immer im Kreis fahren (egal was passiert).*
+
+3. Den Teilnehmern wird nun gezeigt, wie die von ihnen entdeckten Gesetzmäßigkeiten bzw. Wenn-Dann Regeln in KODU abgebildet werden.
 
 ##Tag 2
