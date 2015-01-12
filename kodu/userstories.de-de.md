@@ -31,13 +31,6 @@
 
 **so dass** ich den Puck spielen kann.
 
-### Den Puck spielen (beide Teams)
-**Als ein** Spieler
-
-**will ich**, dass der Puck an meinem Schläger abprallt
-
-**so dass** ich den Puck spielen kann.
-
 ### Rotes Team gewinnt
 **Als ein** Schiedsrichter
 
