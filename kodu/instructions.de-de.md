@@ -65,6 +65,7 @@ Das Programm besteht aus drei Regeln:
     **Wenn-Teil**
          Subjekt - Aktion - Objekt - qualifizierende Attribute
             wobei das Subjekt implizit Teil der Regel ist, da die Regel ja für das Subjekt   definiert wird
+            
     **Tue-Teil**
          Aktion - Objekt - qualifizierende Attribute
             wird kein Objekt angegeben, dann wird dafür implizit das Subjekt verwendet
