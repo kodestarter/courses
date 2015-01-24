@@ -112,7 +112,7 @@ Das Abschluss-Projekt hat drei Ziele:
 - In dem abschließenden Turnier sollen die Jugendlichen einfach Spaß haben und für ihren tollen Einsatz belohnt werden (z.B. kleine Sachpreise)  
 
 ####Ablauf
-1. Zunächst soll den Teilnehmern eine bereits fertige Demo des Spiels gezeigt werden ([PingPong-Spiel](/kodu/PingPong-Spiel.Kodu2)). Anhand der Demo sollen die funktionalen Anforderungen definiert und aufgeschrieben werden (auf einem Whiteboard oder Beamer). Eine fertige Ausarbeitung dazu findest Du in der Datei *TODO*
+1. Zunächst soll den Teilnehmern eine bereits fertige Demo des Spiels gezeigt werden ([PingPong-Spiel](/kodu/PingPong-Spiel.Kodu2)). Anhand der Demo sollen die funktionalen Anforderungen definiert und aufgeschrieben werden (auf einem Whiteboard oder Beamer). Eine fertige Ausarbeitung dazu findest Du in der Datei [Userstories](/kodu/userstories.de-de.md)].
 
 2. Nun sollen die Teilnehmer dieses Spiel nachprogrammieren. Als Ausgangspunkt soll die Datei [PingPong-Template](/kodu/PingPong-Template.Kodu2) dienen, die schon eine fertig erstellte Welt bietet, aber natürlich ohne Regeln. Je nachdem wie gut die einzelnen Teilnehmer in den vorherigen Projekten waren, haben sich zwei verschiedene Vorgehensweisen bewährt:
 
