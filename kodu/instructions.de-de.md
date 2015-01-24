@@ -40,10 +40,11 @@ Den Teilnehmern soll zunächst bewusst gemacht werden, warum es wichtig und sinn
 
 ###Wie funktioniert ein KODU-Programm?
 ####Ziel
-Ziel dieser Lerneinheit ist, dass die Teilnehmer die zugrunde liegenden zwei Wenn-Dann Regeln des Programms *Motorradfahren und Blinken.Kodu2* durch Beobachtung entdecken bzw. selber in natürlicher Sprache formulieren. Ihnen wird dann gezeigt, wie die von ihnen gefundenen und formulierten Wenn-Dann Regeln in der Programmiersprache KODU abgebildet werden.
+Ziel dieser Lerneinheit ist, dass die Teilnehmer die zugrunde liegenden zwei Wenn-Dann Regeln des Programms
+[WennDann](/kodu/WennDann.Kodu2) durch Beobachtung entdecken bzw. selber in natürlicher Sprache formulieren. Ihnen wird dann gezeigt, wie die von ihnen gefundenen und formulierten Wenn-Dann Regeln in der Programmiersprache KODU abgebildet werden.
 
 ####Ablauf
-1. Den Teilnehmern wird auf einem Beamer ein erstes kleines KODU-Programm in der Ausführung gezeigt(*Motorradfahren und Blinken.Kodu2*). Steht kein Beamer zur Verfügung, so müssen die Teilnehmer dieses Programm auf ihren Rechnern öffnen und ausführen. Da sie bis dahin noch keinerlei Erfahrung mit KODU haben, muss ihnen eventuell dabei geholfen werden.
+1. Den Teilnehmern wird auf einem Beamer ein erstes kleines KODU-Programm in der Ausführung gezeigt([WennDann](/kodu/WennDann.Kodu2)). Steht kein Beamer zur Verfügung, so müssen die Teilnehmer dieses Programm auf ihren Rechnern öffnen und ausführen. Da sie bis dahin noch keinerlei Erfahrung mit KODU haben, muss ihnen eventuell dabei geholfen werden.
 Das Programm zeigt einen Motorradfahrer der im Kreis um einen KODU fährt.
 
 2. Die Schüler sollen nun beschreiben, was sie sehen. Sie sollen die zugrunde liegende Gesetzmäßigkeit dieses Programms herausfinden und in natürlicher Sprache formulieren.
@@ -108,9 +109,9 @@ Das Abschluss-Projekt hat drei Ziele:
 - In dem abschließenden Turnier sollen die Jugendlichen einfach Spaß haben und für ihren tollen Einsatz belohnt werden (z.B. kleine Sachpreise)  
 
 ####Ablauf
-1. Zunächst soll den Teilnehmern eine bereits fertige Demo des Spiels gezeigt werden (*Ping Pong V1.Kodu2*). Anhand der Demo sollen die funktionalen Anforderungen definiert und aufgeschrieben werden (auf einem Whiteboard oder Beamer). Eine fertige Ausarbeitung dazu findest Du in der Datei *TODO*
+1. Zunächst soll den Teilnehmern eine bereits fertige Demo des Spiels gezeigt werden ([PingPong-Spiel](/kodu/PingPong-Spiel.Kodu2)). Anhand der Demo sollen die funktionalen Anforderungen definiert und aufgeschrieben werden (auf einem Whiteboard oder Beamer). Eine fertige Ausarbeitung dazu findest Du in der Datei *TODO*
 
-2. Nun sollen die Teilnehmer dieses Spiel nachprogrammieren. Als Ausgangspunkt soll die Datei *Ping Pong Tempate.Kodu2* dienen, die schon eine fertig erstellte Welt bietet, aber natürlich ohne Regeln. Je nachdem wie gut die einzelnen Teilnehmer in den vorherigen Projekten waren, haben sich zwei verschiedene Vorgehensweisen bewährt:
+2. Nun sollen die Teilnehmer dieses Spiel nachprogrammieren. Als Ausgangspunkt soll die Datei [PingPong-Template](/kodu/PingPong-Template.Kodu2) dienen, die schon eine fertig erstellte Welt bietet, aber natürlich ohne Regeln. Je nachdem wie gut die einzelnen Teilnehmer in den vorherigen Projekten waren, haben sich zwei verschiedene Vorgehensweisen bewährt:
 
   - Sehr gute Teilnehmer sollen selbstständig versuchen, das Spiel gemäß den funktionalen Anforderungen umzusetzen. Dabei sollen sie jeweils mit der Anforderung beginnen, die für sie am einfachsten zu bewältigen und nachzuvollziehen ist. Deine Aufgabe ist es, diesen Teilnehmern regelmäßig über die Schulter zu schauen, ob alles in die richtige Richtung geht und bei Fragen zu helfen.
 
