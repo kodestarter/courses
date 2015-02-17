@@ -25,7 +25,7 @@ Es werden Computer benötigt, die die folgenden Minimal-Voraussetzungen erfülle
 
 Folgende Software muss auf den Computern der Teilnehmer installiert sein:
 - KODU (http://www.microsoft.com/en-us/download/details.aspx?id=10056)
-- XNA Framework (http://www.microsoft.com/en-us/download/details.aspx?id=21)
+- XNA Framework (http://www.microsoft.com/en-us/download/details.aspx?id=15163)
 - Die Kodestarter Beispiel-Programme müssen in das Verzeichnis *<User-Verzeichnis>Saved Games* (Beispiel: C:\Users\john\Saved Games) der Teilnehmer-Rechner kopiert werden, damit diese später geladen werden können.
 
 Optional:
